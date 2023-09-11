@@ -22,6 +22,7 @@ git push -u origin main
 ```
 
 # Deslogar do Git
+*obs: não mude nada, apenas cole os comandos.
 ```
 git config --global --unset user.name
 ```
