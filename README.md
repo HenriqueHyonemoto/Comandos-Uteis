@@ -9,3 +9,34 @@ mude esta parte: "$n.ext" (exemplo: "Nome$n.png", o resultado sera: Nome1.png,No
 $n é o número (mantenha desta forma)
 
 .ext é para especificar a extensão (.png .jpg .pdf)
+
+# Subir para o git 
+```
+git add .
+```
+```
+git commit -m "Colocar uma descricao"
+```
+```
+git push -u origin main
+```
+
+# Deslogar do Git
+```
+git config --global --unset user.name
+```
+```
+git config --global --unset user.email
+```
+
+
+# Caso erro de conflito em commit
+```
+git config pull.rebase false
+```
+```
+git pull
+```
+```
+git push -u origin main
+```
