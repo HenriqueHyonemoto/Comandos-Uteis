@@ -1,6 +1,6 @@
 # ComandosUteis
 # Subir para o git pela primeira vez
-_abra o terminal dentro do seu diretorio_
+_>abra o terminal dentro do seu diretorio_
 ```
 git config --global user.name "HenriqueHyonemoto"
 ```
@@ -16,9 +16,9 @@ git add .
 ```
 git commit -m "Colocar uma descricao"
 ```
-_Cole o link do seu repositorio depois de origin, desta forma:_
+_>Cole o link do seu repositorio depois de origin, desta forma:_
 
-_git remote add origin https://github.com/HenriqueHyonemoto/repositorio.git_
+_>git remote add origin https://github.com/HenriqueHyonemoto/repositorio.git_
 ```
 git remote add origin 
 ```
@@ -40,7 +40,7 @@ git push -u origin main
 ```
 
 # Deslogar do Git
-_apenas cole os comandos._
+_>apenas cole os comandos._
 ```
 git config --global --unset user.name
 ```
@@ -64,8 +64,8 @@ git push -u origin main
 ```
 ls -v | cat -n | while read n f; do mv -n "$f" "$n.ext"; done
 ```
-mude esta parte: "$n.ext" (exemplo: "Nome$n.png", o resultado sera: Nome1.png,Nome2.png,Nome3.png,)
+>mude esta parte: "$n.ext" (exemplo: "Nome$n.png", o resultado sera: Nome1.png,Nome2.png,Nome3.png,)
 
-$n é o número (mantenha desta forma)
+>$n é o número (mantenha desta forma)
 
-.ext é para especificar a extensão (.png .jpg .pdf)
+>.ext é para especificar a extensão (.png .jpg .pdf)
