@@ -35,7 +35,7 @@ git commit -m "Colocar uma descricao"
 ```
 git push -u origin main
 ```
-git 
+
 # Deslogar do Git
 *obs: não mude nada, apenas cole os comandos.
 ```
