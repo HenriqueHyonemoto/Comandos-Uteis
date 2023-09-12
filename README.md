@@ -10,7 +10,7 @@ $n é o número (mantenha desta forma)
 
 .ext é para especificar a extensão (.png .jpg .pdf)
 
-# Subir para o git 
+# Subir para o git pela primeira vez
 ```
 git config --global user.name "HenriqueHyonemoto"
 ```
@@ -36,7 +36,17 @@ git branch -M main
 ```
 git push -u origin main
 ```
-
+# Fazer atualizações em repositorios
+```
+git add .
+```
+```
+git commit -m "Colocar uma descricao"
+```
+```
+git push -u origin main
+```
+git 
 # Deslogar do Git
 *obs: não mude nada, apenas cole os comandos.
 ```
