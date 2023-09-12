@@ -1,6 +1,6 @@
 # ComandosUteis
 # Subir para o git pela primeira vez
-_>abra o terminal dentro do seu diretorio_
+>abra o terminal dentro do seu diretorio
 ```
 git config --global user.name "HenriqueHyonemoto"
 ```
