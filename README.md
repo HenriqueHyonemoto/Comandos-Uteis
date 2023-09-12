@@ -1,6 +1,6 @@
 # ComandosUteis
 # Subir para o git pela primeira vez
-*abra o terminal dentro do seu diretorio
+_abra o terminal dentro do seu diretorio_
 ```
 git config --global user.name "HenriqueHyonemoto"
 ```
@@ -16,9 +16,9 @@ git add .
 ```
 git commit -m "Colocar uma descricao"
 ```
-*Cole o link do seu repositorio depois de origin, desta forma:
+_Cole o link do seu repositorio depois de origin, desta forma:_
 
-git remote add origin https://github.com/HenriqueHyonemoto/repositorio.git
+_git remote add origin https://github.com/HenriqueHyonemoto/repositorio.git_
 ```
 git remote add origin 
 ```
@@ -40,7 +40,7 @@ git push -u origin main
 ```
 
 # Deslogar do Git
-*obs: não mude nada, apenas cole os comandos.
+_apenas cole os comandos._
 ```
 git config --global --unset user.name
 ```
