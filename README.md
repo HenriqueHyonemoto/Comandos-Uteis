@@ -12,6 +12,12 @@ $n é o número (mantenha desta forma)
 
 # Subir para o git 
 ```
+git config --global user.name "HenriqueHyonemoto"
+```
+```
+git config --global user.email "henrique.hyonemoto@aluno.ifsp.edu.br"
+```
+```
 git init
 ```
 ```
@@ -19,6 +25,12 @@ git add .
 ```
 ```
 git commit -m "Colocar uma descricao"
+```
+```
+git remote add origin (https://github.com/HenriqueHyonemoto/repositorio.git)
+```
+```
+git branch -M main
 ```
 ```
 git push -u origin main
