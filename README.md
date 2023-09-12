@@ -16,9 +16,10 @@ git add .
 ```
 git commit -m "Colocar uma descricao"
 ```
-*Cole o link do seu repositorio depois de origin
-```
+*Cole o link do seu repositorio depois de origin, desta forma:
 git remote add origin https://github.com/HenriqueHyonemoto/repositorio.git
+```
+git remote add origin 
 ```
 ```
 git branch -M main
