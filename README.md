@@ -1,6 +1,6 @@
 # ComandosUteis
 # Subir para o git pela primeira vez
-   >abra o terminal dentro do seu diretorio_
+   _>abra o terminal dentro do seu diretorio_
 ```
 git config --global user.name "HenriqueHyonemoto"
 ```
@@ -16,7 +16,7 @@ git add .
 ```
 git commit -m "Colocar uma descricao"
 ```
-_>Cole o link do seu repositorio depois de origin, desta forma:_
+_>Cole o link do seu repositorio depois de "origin", desta forma:_
 
 >git remote add origin https://github.com/HenriqueHyonemoto/repositorio.git
 ```
@@ -53,6 +53,9 @@ git config --global --unset user.email
 ```
 git config pull.rebase false
 ```
+_>Cole o link do seu repositorio depois de "pull", desta forma:_
+
+>git pull https://github.com/HenriqueHyonemoto/repositorio.git
 ```
 git pull
 ```
