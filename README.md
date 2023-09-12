@@ -26,6 +26,7 @@ git add .
 ```
 git commit -m "Colocar uma descricao"
 ```
+*Coloque o seu repositorio e retire os parenteses
 ```
 git remote add origin https://github.com/HenriqueHyonemoto/repositorio.git
 ```
