@@ -12,6 +12,9 @@ $n é o número (mantenha desta forma)
 
 # Subir para o git 
 ```
+git init
+```
+```
 git add .
 ```
 ```
