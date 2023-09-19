@@ -63,7 +63,7 @@ git pull
 git push -u origin main
 ```
 
-# Renomear arquivos com sequencia numerica
+# Renomear arquivos com sequencia numerica (Linux)
 ```
 ls -v | cat -n | while read n f; do mv -n "$f" "$n.ext"; done
 ```
