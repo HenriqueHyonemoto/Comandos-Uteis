@@ -33,7 +33,7 @@ git push -u origin main
 git add .
 ```
 ```
-git commit -m "Colocar uma descricao"
+git commit -m "descrição"
 ```
 ```
 git push -u origin main
