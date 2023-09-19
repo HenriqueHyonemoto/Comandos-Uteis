@@ -1,4 +1,4 @@
-# ComandosUteis
+# ComandosUteis :bookmark:
 # Subir para o git pela primeira vez
    _>abra o terminal dentro do seu diretorio_
 ```
