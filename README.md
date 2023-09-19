@@ -14,7 +14,7 @@ git init
 git add .
 ```
 ```
-git commit -m "Colocar uma descricao"
+git commit -m "Descrição"
 ```
 _>Cole o link do seu repositorio depois de "origin", desta forma:_
 
