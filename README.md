@@ -1,5 +1,5 @@
-# ComandosUteis :page_facing_up:
-# Subir para o git pela primeira vez :arrow_up:
+# :page_facing_up: ComandosUteis 
+# :arrow_up: Subir para o git pela primeira vez 
    _>abra o terminal dentro do seu diretorio_
 ```
 git config --global user.name "HenriqueHyonemoto"
@@ -28,7 +28,7 @@ git branch -M main
 ```
 git push -u origin main
 ```
-# Fazer atualizações em repositorios :heavy_plus_sign:
+# :heavy_plus_sign: Fazer atualizações em repositorios 
 ```
 git add .
 ```
@@ -39,7 +39,7 @@ git commit -m "descrição"
 git push -u origin main
 ```
 
-# Deslogar do Git :arrow_down:
+# :arrow_down: Deslogar do Git 
 _>apenas cole os comandos._
 ```
 git config --global --unset user.name
@@ -49,7 +49,7 @@ git config --global --unset user.email
 ```
 
 
-# Caso erro de conflito em commit :hammer:
+# :hammer: Caso erro de conflito em commit 
 ```
 git config pull.rebase false
 ```
@@ -63,7 +63,7 @@ git pull
 git push -u origin main
 ```
 
-# Renomear arquivos com sequencia numerica (Linux) :pencil2:
+# :pencil2: Renomear arquivos com sequencia numerica (Linux) 
 ```
 ls -v | cat -n | while read n f; do mv -n "$f" "$n.ext"; done
 ```
