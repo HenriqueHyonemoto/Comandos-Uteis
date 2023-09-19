@@ -1,4 +1,4 @@
-# :page_facing_up: ComandosUteis 
+# :page_facing_up: Comandos Uteis 
 # :arrow_up: Subir para o git pela primeira vez 
    _>abra o terminal dentro do seu diretorio_
 ```
