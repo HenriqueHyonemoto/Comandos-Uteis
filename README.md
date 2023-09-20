@@ -16,8 +16,9 @@ git add .
 ```
 git commit -m "Descrição"
 ```
-_>Cole o link do seu repositorio depois de "origin", desta forma:_
-
+```diff
+# _>Cole o link do seu repositorio depois de "origin", desta forma:_
+````
 >git remote add origin https://github.com/HenriqueHyonemoto/repositorio.git
 ```
 git remote add origin 
