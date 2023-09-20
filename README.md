@@ -1,8 +1,6 @@
 # :page_facing_up: Comandos Uteis 
 # :arrow_up: Subir para o git pela primeira vez 
-```diff
-# abra o terminal dentro do seu diretorio
-```
+   _>abra o terminal dentro do seu diretorio_
 ```
 git config --global user.name "HenriqueHyonemoto"
 ```
@@ -18,11 +16,9 @@ git add .
 ```
 git commit -m "Descrição"
 ```
-```diff
-# Cole o link do seu repositorio depois de "origin", desta forma:
+_>Cole o link do seu repositorio depois de "origin", desta forma:_
 
-# >git remote add origin https://github.com/HenriqueHyonemoto/repositorio.git
-```
+>git remote add origin https://github.com/HenriqueHyonemoto/repositorio.git
 ```
 git remote add origin 
 ```
@@ -44,9 +40,7 @@ git push -u origin main
 ```
 
 # :arrow_down: Deslogar do Git 
-```diff
-# apenas cole os comandos.
-```
+_>apenas cole os comandos._
 ```
 git config --global --unset user.name
 ```
@@ -59,11 +53,9 @@ git config --global --unset user.email
 ```
 git config pull.rebase false
 ```
-```diff
-# Cole o link do seu repositorio depois de "pull", desta forma:
+_>Cole o link do seu repositorio depois de "pull", desta forma:_
 
-# >git pull https://github.com/HenriqueHyonemoto/repositorio.git
-```
+>git pull https://github.com/HenriqueHyonemoto/repositorio.git
 ```
 git pull
 ```
@@ -75,12 +67,8 @@ git push -u origin main
 ```
 ls -v | cat -n | while read n f; do mv -n "$f" "$n.ext"; done
 ```
-```diff
-# mude esta parte: "$n.ext" (exemplo: "Nome$n.png", o resultado sera: Nome1.png,Nome2.png,Nome3.png,)
-```
-```diff
-# $n é o número (mantenha desta forma)
-````
-```diff
-# .ext é para especificar a extensão (.png .jpg .pdf)
-```
+>mude esta parte: "$n.ext" (exemplo: "Nome$n.png", o resultado sera: Nome1.png,Nome2.png,Nome3.png,)
+
+>$n é o número (mantenha desta forma)
+
+>.ext é para especificar a extensão (.png .jpg .pdf)
