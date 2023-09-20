@@ -13,8 +13,11 @@ git init
 ```
 git add .
 ```
+---
+$$\space$$
+>`Coloque a descrição que preferir no lugar entra aspas:"commit"`
 ```
-git commit -m "Descrição"
+git commit -m "commit"
 ```
 
 ---
