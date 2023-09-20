@@ -18,9 +18,9 @@ git commit -m "Descrição"
 ```
 ```diff
 # Cole o link do seu repositorio depois de "origin", desta forma:
+
 # >git remote add origin https://github.com/HenriqueHyonemoto/repositorio.git
 ```
-
 ```
 git remote add origin 
 ```
@@ -60,9 +60,8 @@ git config pull.rebase false
 ```diff
 # Cole o link do seu repositorio depois de "pull", desta forma:
 
->git pull https://github.com/HenriqueHyonemoto/repositorio.git
+# >git pull https://github.com/HenriqueHyonemoto/repositorio.git
 ```
-
 ```
 git pull
 ```
