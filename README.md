@@ -40,8 +40,10 @@ git push -u origin main
 ```
 git add .
 ```
+$$\space$$
+>`Coloque a descrição que preferir na área entre aspas:"commit" ou "primeiro commit" ou "Arquivos Adicionados"`
 ```
-git commit -m "descrição"
+git commit -m "commit"
 ```
 ```
 git push -u origin main
