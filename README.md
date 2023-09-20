@@ -1,6 +1,8 @@
 # :page_facing_up: Comandos Uteis 
 # :arrow_up: Subir para o git pela primeira vez 
-   _>abra o terminal dentro do seu diretorio_
+```diff
+# abra o terminal dentro do seu diretorio
+```
 ```
 git config --global user.name "HenriqueHyonemoto"
 ```
