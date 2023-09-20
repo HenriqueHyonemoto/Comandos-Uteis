@@ -17,7 +17,7 @@ git add .
 git commit -m "Descrição"
 ```
 ```diff
-# _>Cole o link do seu repositorio depois de "origin", desta forma:_
+# Cole o link do seu repositorio depois de "origin", desta forma:
 ````
 >git remote add origin https://github.com/HenriqueHyonemoto/repositorio.git
 ```
@@ -41,7 +41,9 @@ git push -u origin main
 ```
 
 # :arrow_down: Deslogar do Git 
-_>apenas cole os comandos._
+```diff
+# apenas cole os comandos.
+```
 ```
 git config --global --unset user.name
 ```
@@ -54,9 +56,12 @@ git config --global --unset user.email
 ```
 git config pull.rebase false
 ```
-_>Cole o link do seu repositorio depois de "pull", desta forma:_
+```diff
+# Cole o link do seu repositorio depois de "pull", desta forma:
 
 >git pull https://github.com/HenriqueHyonemoto/repositorio.git
+```
+
 ```
 git pull
 ```
@@ -68,8 +73,12 @@ git push -u origin main
 ```
 ls -v | cat -n | while read n f; do mv -n "$f" "$n.ext"; done
 ```
->mude esta parte: "$n.ext" (exemplo: "Nome$n.png", o resultado sera: Nome1.png,Nome2.png,Nome3.png,)
-
->$n é o número (mantenha desta forma)
-
->.ext é para especificar a extensão (.png .jpg .pdf)
+```diff
+# mude esta parte: "$n.ext" (exemplo: "Nome$n.png", o resultado sera: Nome1.png,Nome2.png,Nome3.png,)
+```
+```diff
+# $n é o número (mantenha desta forma)
+````
+```diff
+# .ext é para especificar a extensão (.png .jpg .pdf)
+```
