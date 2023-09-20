@@ -15,7 +15,7 @@ git add .
 ```
 ---
 $$\space$$
->`Coloque a descrição que preferir na área entre aspas:"commit"`
+>`Coloque a descrição que preferir na área entre aspas:"commit" ou "primeiro commit" ou "Arquivos Adicionados"`
 ```
 git commit -m "commit"
 ```
