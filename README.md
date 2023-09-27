@@ -61,7 +61,7 @@ git config --global --unset user.email
 ```
 
 
-# :hammer: Caso erro de conflito em commit 
+# :hammer: Caso erro de conflito no push
 ```
 git config pull.rebase false
 ```
