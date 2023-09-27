@@ -62,6 +62,7 @@ git config --global --unset user.email
 
 
 # :hammer: Caso erro de conflito no push
+>`recomendo fazer backup do seu diretorio`
 ```
 git config pull.rebase false
 ```
