@@ -1,4 +1,10 @@
 # :page_facing_up: Comandos Uteis 
+
+# Erro 403
+Abrir o credential manager <br>
+![image](https://github.com/HenriqueHyonemoto/Comandos-Uteis/assets/91375748/e7d88884-96f5-4513-bcb5-005b28b008d4) <br>
+Remova o "git:https://github.com" e faça o login novamente na hora do push.
+
 # :arrow_up: Subir para o git pela primeira vez 
    >`abra o terminal dentro do seu diretorio`
 ```
